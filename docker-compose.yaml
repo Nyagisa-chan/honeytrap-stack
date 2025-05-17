@@ -6,7 +6,7 @@ services:
     container_name: honeytrap
     image: honeytrap/honeytrap:latest
     ports:
-      - "22:22"
+      - "2222:22"
       - "25:25"
     volumes:
       - ./config.toml:/config/config.toml
