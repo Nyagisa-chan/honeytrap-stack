@@ -1,6 +1,6 @@
 #### Clone this repository and move into the directory
 ```bash
-git clone https://github.com/yevadrian/honeytrap-stack && cd honeytrap-stack
+git clone https://github.com/Nyagisa-chan/honeytrap-stack && cd honeytrap-stack
 ```
 
 #### Run the script to setup requirements
